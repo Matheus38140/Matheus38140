@@ -28,7 +28,7 @@ Me chamo Matheus Victor Ferreira, tenho 21 anos e sou natural de Pernambuco. Atu
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Ferramentas Para Análises 
 
 <img 
     align="left" 
@@ -71,11 +71,3 @@ Me chamo Matheus Victor Ferreira, tenho 21 anos e sou natural de Pernambuco. Atu
     src="https://github-readme-stats.vercel.app/api?username=Matheus38140&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus38140&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
